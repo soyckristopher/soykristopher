@@ -12,10 +12,12 @@
 ## 🚀 Projects I'm Working On
 - Random Movie Selector Project
 
+
+
 ## 📚 Currently Learning
 - Data Structures & Algorithms
 - Web Development (HTML, CSS, JS coming soon)
-
+- Beginner Block Chain Technology
 ## 🎯 Goals
 - Grow my GitHub with more public projects
 - Land a internship in Computer Science
